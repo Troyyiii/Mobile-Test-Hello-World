@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main(){
+void main() {
   runApp(
     MaterialApp(
       title: 'Testing Application',
@@ -10,7 +10,7 @@ void main(){
         ),
         body: Center(
           child: Text(
-            "Hello World",
+            "Hallo dunia",
             textDirection: TextDirection.ltr,
           ),
         ),
